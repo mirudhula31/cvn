@@ -1,0 +1,49 @@
+body{
+    background-color:#EDDBC0;
+}
+h1{
+    color:#DD5353
+    
+}
+h2{
+    color:#DD5353
+    
+}
+hr{
+
+    border-style:none;
+    border-top-style:dotted;
+    border-color:DBC8AC;
+    border-width:5px;
+    width:65%;
+}
+
+img {
+  width:250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:15%;
+  box-shadow: 0px 0px 10px 2px #DD5353;
+}
+
+body{
+  text-align:center;
+}
+
+table{
+    text-align: center;
+}
+
+.work {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .skills {
+    margin-left: auto;
+    margin-right: auto;
+  }
+p {
+  font-size: 20px;
+}
